@@ -1,3 +1,3 @@
 module example {
-  requires org.slf4j;
+  requires static org.slf4j;
 }
